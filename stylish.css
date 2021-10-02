@@ -153,10 +153,10 @@ margin-left: 1rem;
 /** section **/
 
 section {
-    padding: 2rem 0rem;
+    padding: 2rem 2rem;
 }
 
-section h2,p {
+section h2,p,textarea {
     text-align: center;
 }
 

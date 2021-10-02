@@ -5,8 +5,8 @@ var outputtext = document.querySelector(".optext")
 // res.addEventListener("click", function ToDoevent() {
 console.log(inptext.value)
 // })
-// var url = "https://api.funtranslations.com/translate/minion.json"
-// var url = "https://api.funtranslations.com/translate/groot.json"
+
+// var url = "https://api.funtranslations.com/translate/hodor.json"
 var url = "https://api.funtranslations.com/translate/dothraki.json"
 function getURL(text) {
     // url for API +query selector + key + value passed
